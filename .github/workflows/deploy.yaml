@@ -5,6 +5,7 @@ on:
       - main
     paths:
       - ice-cream-dataops/**
+      - .github/workflows/**
   workflow_dispatch:
 
 env:
