@@ -1,4 +1,4 @@
-name: Deploy Toolkit
+name: Deploy Toolkit 
 on:
   push:
     branches:
