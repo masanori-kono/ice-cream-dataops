@@ -165,4 +165,4 @@ def handle(client: CogniteClient = None, data=None):
 
         report_ext_pipe(client, "success")
     except Exception as e:
-        report_ext_pipe(client, "fail", e)
+        report_ext_pipe(client, "fail", e) 
