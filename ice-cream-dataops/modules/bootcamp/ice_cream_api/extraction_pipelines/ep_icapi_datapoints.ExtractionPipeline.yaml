@@ -1,0 +1,14 @@
+externalId: ep_icapi_datapoints
+name: ICAPI Datapoints Extraction Pipeline
+dataSetExternalId: {{ icapi_ds_external_id }}
+description: Extracts timeseries datapoints from ICAPI and stores them in raw tables
+source: Ice Cream API
+contacts:
+  - name: 'Masanori Kono'
+    email: masanori.kono@cognite.com
+    role: 'Senior Data Engineer'
+    sendNotification: false
+metadata:
+    origin: 'cognite-toolkit'
+    my_custom_field: 'my_custom_value'
+createdBy: 'Masanori Kono'

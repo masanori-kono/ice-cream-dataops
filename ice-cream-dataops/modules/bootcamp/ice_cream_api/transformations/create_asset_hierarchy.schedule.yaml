@@ -1,0 +1,5 @@
+
+externalId: create_asset_hierarchy
+name: Create Asset Hierarchy Schedule
+description: Schedule for creating the asset hierarchy
+interval: 27 0 * * *

@@ -1,0 +1,4 @@
+externalId: contextualize_ts_assets
+name: Contextualize TimeSeries and Assets Schedule
+description: Schedule for contextualizing time series with assets
+interval: 0 * * * *  # Run every hour 
