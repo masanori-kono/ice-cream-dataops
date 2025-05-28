@@ -17,7 +17,7 @@ jobs:
   build-modules:
     strategy:
       matrix:
-        environment: 
+        environment:
            - test
            - prod
     environment: ${{ matrix.environment }}
