@@ -19,6 +19,7 @@ jobs:
       matrix:
         environment:
            - test
+           - prod
     environment: ${{ matrix.environment }}
     runs-on: ubuntu-latest
     env:
